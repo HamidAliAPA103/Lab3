@@ -1,0 +1,14 @@
+C:\Users\Classtime.PC_6_213_5\Desktop\lab\ref out\ref out\ref out\bin\Debug\net8.0\ref out.exe
+C:\Users\Classtime.PC_6_213_5\Desktop\lab\ref out\ref out\ref out\bin\Debug\net8.0\ref out.deps.json
+C:\Users\Classtime.PC_6_213_5\Desktop\lab\ref out\ref out\ref out\bin\Debug\net8.0\ref out.runtimeconfig.json
+C:\Users\Classtime.PC_6_213_5\Desktop\lab\ref out\ref out\ref out\bin\Debug\net8.0\ref out.dll
+C:\Users\Classtime.PC_6_213_5\Desktop\lab\ref out\ref out\ref out\bin\Debug\net8.0\ref out.pdb
+C:\Users\Classtime.PC_6_213_5\Desktop\lab\ref out\ref out\ref out\obj\Debug\net8.0\ref out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime.PC_6_213_5\Desktop\lab\ref out\ref out\ref out\obj\Debug\net8.0\ref out.AssemblyInfoInputs.cache
+C:\Users\Classtime.PC_6_213_5\Desktop\lab\ref out\ref out\ref out\obj\Debug\net8.0\ref out.AssemblyInfo.cs
+C:\Users\Classtime.PC_6_213_5\Desktop\lab\ref out\ref out\ref out\obj\Debug\net8.0\ref out.csproj.CoreCompileInputs.cache
+C:\Users\Classtime.PC_6_213_5\Desktop\lab\ref out\ref out\ref out\obj\Debug\net8.0\ref out.dll
+C:\Users\Classtime.PC_6_213_5\Desktop\lab\ref out\ref out\ref out\obj\Debug\net8.0\refint\ref out.dll
+C:\Users\Classtime.PC_6_213_5\Desktop\lab\ref out\ref out\ref out\obj\Debug\net8.0\ref out.pdb
+C:\Users\Classtime.PC_6_213_5\Desktop\lab\ref out\ref out\ref out\obj\Debug\net8.0\ref out.genruntimeconfig.cache
+C:\Users\Classtime.PC_6_213_5\Desktop\lab\ref out\ref out\ref out\obj\Debug\net8.0\ref\ref out.dll
