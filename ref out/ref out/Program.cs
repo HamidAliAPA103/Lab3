@@ -50,8 +50,69 @@
 //    if (b > a) max = b;
 //    if (c > a) max = c;
 //    Console.WriteLine($"{min} {max}");
-    
+
 //}
 //int min = 0;
 //int max = 0;
 //FindMinMax(35, 5, 4,out  min, out max);
+
+
+//7ci mesele
+
+//double[] prices = { 50,100,150, 200 };
+
+//Endirim( prices);
+//static void Endirim( double[] prices)
+//{
+
+//    for (int i = 0; i < prices.Length; i++)
+//    {
+//        prices[i] = prices[i] * 0.6;
+//    }
+
+//    for (int i = 0; i < prices.Length; i++)
+//    {
+//        Console.WriteLine(prices[i]); ;
+//    }
+
+
+//}
+
+//5ci mesele
+
+//Console.WriteLine("bal daxil edin : ");
+//int score =int.Parse(Console.ReadLine());
+//Console.WriteLine(" artacaq bal daxil edin : ");
+//int score2 =int.Parse(Console.ReadLine());
+//Console.WriteLine("umumi bal : ");
+
+
+//IncreaseScore(ref score,score2);
+//static void IncreaseScore(ref int score,int score2)
+//{
+//  ;
+//  int num =score2 + score;
+//    Console.WriteLine(num);
+//}
+
+
+//6ci mesele
+
+
+//Console.WriteLine("ad daxil et");
+//string name = Console.ReadLine();
+
+//AdYas(out int years);
+//static void AdYas(out int years)
+//{
+//    Console.WriteLine(" yas daxil et");
+//     years = int.Parse(Console.ReadLine());
+//    if (years < 18)
+//    {
+//        Console.WriteLine("yetkin deil" + years);
+//    }
+//    else
+//    {
+//        Console.WriteLine("yetkindir" + years);
+//    }
+//}
